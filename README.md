@@ -1,1 +1,1 @@
-# UML-for-IPD-Admin
+# UML-Diagrams-for-Diet-Management

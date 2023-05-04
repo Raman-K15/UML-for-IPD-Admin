@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    font-family: 'Calibri', cursive;
+  }
+
+  .cards{
+    display: flex;
+    background-color: #ffffff;
+    margin: 5%;
+    color: #044c05;
+  }
+  
+  .topnav {
+    padding-left: 15%;
+    overflow: hidden;
+    background: linear-gradient(to right,#103b6c, #f30ea3);
+    text-align: center;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 25px;
+  }
+  
+  
+  .topnav a.active {
+      
+      color: white;
+  }
+  
+  .topnav a.log{
+     
+      color: white;
+  }
+  .topnav a.sign{
+      
+      color: white;
+  
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+
+#usecase{
+    position: relative;
+}
